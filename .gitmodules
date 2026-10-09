@@ -1,0 +1,4 @@
+[submodule "aromma"]
+	path = aromma
+	url = https://github.com/DGIST-Distributed-AI-Lab/aromma
+	branch = main
